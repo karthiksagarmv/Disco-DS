@@ -2,7 +2,7 @@
 
 Key Learnings ->
     
-    PriorityQueues  
+    **PriorityQueues** 
        
     boolean add(E element): This method inserts the specified element into this priority queue.  
     public remove(): This method removes a single instance of the specified element from this queue, if it is present  
@@ -11,7 +11,7 @@ Key Learnings ->
     iterator(): Returns an iterator over the elements in this queue.  
     booleancontains(Object o): This method returns true if this queue contains the specified element
     
-    ComparatorInterface  
+    **ComparatorInterface**  
         
     Example for Max Heap  
     compareTo Returns 0 if equal, positive if first is greater and negative if second is greater

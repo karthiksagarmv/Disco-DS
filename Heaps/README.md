@@ -9,7 +9,7 @@ Key Learnings
     public poll(): This method retrieves and removes the head of this queue, or returns null if this queue is empty.  
     public peek(): This method retrieves, but does not remove, the head of this queue, or returns null if this queue is empty.  
     iterator(): Returns an iterator over the elements in this queue.  
-    booleancontains(Object o): This method returns true if this queue contains the specified element
+    boolean contains(Object o): This method returns true if this queue contains the specified element
 
 **ComparatorInterface**  
 

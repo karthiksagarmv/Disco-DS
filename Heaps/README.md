@@ -1,4 +1,4 @@
-[Running Median](https://github.com/karthiksagarmv/Disco-DS/new/master/Heaps/RunningMedian.java)
+[Running Median](https://github.com/karthiksagarmv/Disco-DS/blob/master/Heaps/RunningMedian.java)
 
 Key Learnings
     

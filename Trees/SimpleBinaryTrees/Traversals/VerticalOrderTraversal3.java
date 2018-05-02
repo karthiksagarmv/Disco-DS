@@ -76,7 +76,7 @@ public class VerticalOrderTraversal3 {
 		 
 		/*
 	   	 *
-	   	 *      1
+	   	 *        1
 		        /   \
 		       2     3
 		      / \   / \

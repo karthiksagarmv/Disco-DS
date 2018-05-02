@@ -16,3 +16,8 @@ This is a O(n*w) solution, where w => width of given tree, it works by computing
 
 This solution uses Map to save entries of vertical order traversal corresponding to a horizontal distance.  
 The code uses TreeMap to save the entries. Time complexity would be O(N*log(N))  
+
+[Traversal / Vertical Order Type 3](https://github.com/karthiksagarmv/Disco-DS/blob/master/Trees/SimpleBinaryTrees/Traversals/VerticalOrderTraversal3.java)
+
+This solution uses Map to save entries of vertical order traversal corresponding to a horizontal distance.  
+It is based on the logic of level order traversal of the binary tree.

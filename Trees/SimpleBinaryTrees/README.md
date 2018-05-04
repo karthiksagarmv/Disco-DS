@@ -21,3 +21,5 @@ The code uses TreeMap to save the entries. Time complexity would be O(N*log(N))
 
 This solution uses Map to save entries of vertical order traversal corresponding to a horizontal distance.  
 It is based on the logic of level order traversal of the binary tree.
+
+[Traversal / Level Order Type 1](https://github.com/karthiksagarmv/Disco-DS/blob/master/Trees/SimpleBinaryTrees/Traversals/LevelOrderTraversal1.java)
